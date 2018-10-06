@@ -4,10 +4,15 @@ The point of this script it to scrape the arXiv and download the titles of certa
 My interests are typically Astrophysics, Computer vision and AI. 
 Idea is:
 print Topic Name heading
+
 	print List of paper-titles
+	
 		if interesting paper:
+		
 			Click on the name:
+			
 				Download pdf()
+				
 Libraries required: 
 os, Tkinter, BeautifulSoup, itertools, urllib2. 
 
